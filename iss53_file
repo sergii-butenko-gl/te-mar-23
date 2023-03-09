@@ -1,2 +1,2 @@
 def iss53_function():
-    pass
+    return True
