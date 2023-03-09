@@ -1,2 +1,2 @@
-def iss54_function():
-    return False
+def iss53_function():
+    return True
