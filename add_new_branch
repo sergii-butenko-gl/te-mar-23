@@ -1,1 +1,4 @@
 added som functions
+
+def foo():
+    pass
