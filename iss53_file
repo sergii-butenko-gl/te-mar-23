@@ -6,3 +6,6 @@ def iss54_function():
     
 def iss55_function():
     return False
+    
+def iss56_function():
+    return False
