@@ -2,3 +2,6 @@ added som functions
 
 def foo():
     pass
+
+def foo2():
+    pass
